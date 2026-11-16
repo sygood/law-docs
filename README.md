@@ -1,23 +1,26 @@
-Law Docs ⚖️
 
-Welcome to Law Docs!
-<link rel="stylesheet" href="style.css">
-A beginner project focused on organizing legal documents and resources using web development technologies.
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Law Docs | المستندات القانونية</title>
+    <link rel="stylesheet" href="Style.css">
+</head>
+<body>
 
-🎯 Project Goal
+    <header>
+        <h1>Law Docs ⚖️</h1>
+        <p>مرحباً بك في منصتنا القانونية</p>
+    </header>
 
-To create a simple and organized platform for legal documents and information.
+    <main>
+        <h2>عن المشروع</h2>
+        <p>
+            منصة تهدف إلى تنظيم المستندات والمعلومات القانونية
+            باستخدام تقنيات تطوير الويب.
+        </p>
+    </main>
 
-💻 Technologies
-
-- HTML5
-- CSS3
-- JavaScript
-
-🚀 About Me
-
-I am a Law and Information Technology student interested in web development, UX/UI design, and combining law with modern technology.
-
-📌 Project Status
-
-This project is currently under development.
+</body>
+</html>
