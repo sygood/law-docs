@@ -1,7 +1,7 @@
 Law Docs ⚖️
 
 Welcome to Law Docs!
-
+<link rel="stylesheet" href="style.css">
 A beginner project focused on organizing legal documents and resources using web development technologies.
 
 🎯 Project Goal
